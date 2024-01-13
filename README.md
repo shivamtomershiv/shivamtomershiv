@@ -7,26 +7,26 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="80" height="80" />
 </div>
 <br><br>
 
@@ -72,3 +72,5 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
