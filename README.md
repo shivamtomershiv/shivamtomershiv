@@ -73,4 +73,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtomershiv&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
