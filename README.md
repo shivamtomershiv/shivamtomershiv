@@ -74,3 +74,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtomershiv&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
+
+<a href="https://github.com/shivamtomershiv/shivamtomershiv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
