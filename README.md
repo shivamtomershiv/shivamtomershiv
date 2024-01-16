@@ -10,23 +10,15 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <div align="left">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
 </div>
 
 <br>
-
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="80" height="80" />
 </div>
 <br><br>
 
