@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="100%" src="https://camo.githubusercontent.com/425df507b6c04c301faef719046e92b859c274f9ed80ab45f78838459fcbfa63/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067">
+
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
